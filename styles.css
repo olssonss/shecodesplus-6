@@ -93,3 +93,7 @@ ul {
 .metricals:hover {
   cursor: pointer;
 }
+.link {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
